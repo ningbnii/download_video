@@ -4,6 +4,10 @@
 
 使用本工具，您可以下载您喜欢的视频，并在本地播放。工具支持多线程下载，能够大大提高下载速度。
 
+### 安装 ffmpeg
+
+请确保您已经安装了 ffmpeg 命令。如果没有安装，您可以在[https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)下载并安装。
+
 ### 使用方法
 
 1. 安装依赖项：`pip install -r requirements.txt`
